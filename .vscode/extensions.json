@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "hoovercj.haskell-linter",
+        "justusadam.language-haskell",
+        "alanz.vscode-hie-server",
+        "formulahendry.code-runner",
+        "maxgabriel.brittany"
+    ]
+}
