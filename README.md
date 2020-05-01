@@ -1,5 +1,8 @@
 # FFP
 
+## Practical tasks
+* 1. Basics of Haskell functions in `1_ex.hs` and `basics.hs`.
+
 ## Prerequisites
 
 Install `stack` following the instructions [from docs](https://docs.haskellstack.org/en/stable/install_and_upgrade/#macos).
