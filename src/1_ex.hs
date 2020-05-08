@@ -83,7 +83,7 @@ foldl op acc (head : rest) = foldl op accumulated rest
 -- Die inneren Werte sind jeweils vom gleichen Typ.
 -- Der Datentyp soll automatisch der Klasse Show
 -- angehören.
-data Einige a = Nil | List Einige a -- <--- i m doing something wrong here, need to figure out it.
+-- data Einige a = Nil | List Einige a -- <--- i m doing something wrong here, need to figure out it.
 
 main = do
     assertEqual (uncurry (/) (1, 2))         0.5
